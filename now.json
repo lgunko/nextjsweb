@@ -2,7 +2,6 @@
   "name": "next-now-stage",
   "version": 2,
   "env": {
-    "APP_ENV": "@stage_app_env",
     "NEXT_EXAMPLE_CMS_DATOCMS_API_TOKEN": "@next_example_cms_datocms_api_token",
     "NEXT_EXAMPLE_CMS_DATOCMS_PREVIEW_SECRET": "@next_example_cms_datocms_preview_secret"
   }
